@@ -1,0 +1,9 @@
+"Patch"
+{
+    include "materials/models/cpthazama/p4d/shared_eyes.vmt"
+    replace
+    {
+        "$basetexture" 				"models/cpthazama/p4d/pc001/pc001_face1"
+        "$detail" 				    "models/cpthazama/p4d/pc001/pc001_face1"
+    }
+}
