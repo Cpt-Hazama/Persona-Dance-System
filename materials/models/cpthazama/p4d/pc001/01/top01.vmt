@@ -1,0 +1,8 @@
+"Patch"
+{
+    include "materials/models/cpthazama/p4d/shared_common.vmt"
+    replace
+    {
+        "$basetexture" 				"models/cpthazama/p4d/pc001/pc001_01_top01"
+    }
+}
